@@ -1,8 +1,8 @@
 class Mua < Formula
   desc "Minimal coding agent with a C core embedding LuaJIT and a neovim-style API"
   homepage "https://github.com/joshsack1/mua"
-  url "https://github.com/joshsack1/mua/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "83d77fddc707631bcaeaeaf7b5fd41f0ce09457381b83afab563a98a41e724fa"
+  url "https://github.com/joshsack1/mua/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "0588cebacb4787f2e9a387ec26e1c0ed8ccae5ce8712bb8459db23d54d73b3d1"
   license "Apache-2.0"
   head "https://github.com/joshsack1/mua.git", branch: "main"
 
